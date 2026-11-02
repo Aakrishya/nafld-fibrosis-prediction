@@ -52,7 +52,7 @@ nafld-fibrosis-prediction/
     └── modeling_handbook.pdf
 ```
 
-## How to run
+## How it runs
 
 1. Open `notebooks/01_eda.ipynb` in Google Colab: **File > Open notebook > GitHub**, then paste `shrfr/nafld-fibrosis-prediction`.
 2. Run all cells. The data loads directly from this repository, so no Google Drive is needed.
